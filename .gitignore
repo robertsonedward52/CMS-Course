@@ -1,4 +1,6 @@
 # this untracked the file DS_store and dir imgs are hidden
 # for the image directory you can make your own and then include that file path relatively.
 .DS_Store
-assets/imgs
+*png
+*jpg
+*jpeg
